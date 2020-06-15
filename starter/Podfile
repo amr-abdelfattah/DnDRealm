@@ -1,0 +1,5 @@
+platform :ios, '13.0'
+target 'DnDRealm' do
+  use_frameworks!
+    pod 'Alamofire', '~> 5.1.0'
+end
