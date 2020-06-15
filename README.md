@@ -29,3 +29,4 @@ Ready to explore the Dungeons and Dragons realm? Time to check the **[tutorial](
 
 - Xcode 11
 - iOS 13
+- Alamofire 5
