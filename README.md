@@ -21,7 +21,7 @@ In this app, you’ll explore the following topics using Alamofire:
 
 **DnDRealm**  app lets you search for Dungeons and Dragons equipment and monsters using [DnD API](https://www.dnd5eapi.co/docs/#intro). Also, the app will feature fetching monster images using [Imgur API](https://apidocs.imgur.com/?version=latest#intro). And, you’ll implement images upload.
 
-Ready to explore the Dungeons and Dragons realm? Time to check the **[tutorial]()**!
+Ready to explore the Dungeons and Dragons realm? Time to check the **[Medium Tutorial](https://medium.com/@amrelsayed.mohamed/alamofire-ios-advanced-techniques-95105c2f5889)**!
 
 
 
